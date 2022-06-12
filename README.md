@@ -15,3 +15,9 @@ NME 3.5.5
 Flixel 1.09
 
 Random 1.0.1.1
+
+# Opening in FlashDevelop
+You can use other editors to modify and run this code, but it would be easiest to use FlashDevelop, as that's what the game was originally created with. The HXPROJ project file and NMML build file are included, so you should just be able to download this repository, extract it to your preferred directory, and open it up in FlashDevelop with no trouble. Just be sure you have the requried libraries installed.
+
+# Using this code in other projects
+You are free to use the code here in other projects, as long as you credit me for the code you use.
